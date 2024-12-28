@@ -165,9 +165,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OpenCV team
 - Contributor community
 
+## 👏 Supervisor
+
+- Prof. Chao-Tung Yang, Tunghai University
+- Assistant Prof. Ding-Hsiang Huang.. Ph.D, Tunghai University
+- OpenCV team
+- Contributor community
+
 ## ✉️ Contact
 
 Anggi Andriyadi - anggi.andriyadi@gmail.com
 Tunghai University
 
 Project Link: [https://github.com/yourusername/object-detection-tracking](https://github.com/yourusername/object-detection-tracking)
+
+# Result
+[![Object Detection and Tracking Demo](https://img.youtube.com/vi/5ccwZCiLfRk/0.jpg)](https://youtu.be/5ccwZCiLfRk)
