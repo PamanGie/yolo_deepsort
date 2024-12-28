@@ -168,7 +168,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👏 Supervisor
 
 - Prof. Chao-Tung Yang, Tunghai University
-- Assistant Prof. Ding-Hsiang Huang.. Ph.D, Tunghai University
+- Assistant Prof. Ding-Hsiang Huang., Ph.D, Tunghai University
 - OpenCV team
 - Contributor community
 
